@@ -1,7 +1,7 @@
 # CANAD
 
 ## What is
-CANAD는 CCAN Anomaly Detector 모듈입니다.
+CANAD는 CCAN Anomaly Detector 도구(이자 모듈)입니다.
 </br></br>
 총 27개의 이상 탐지 규칙을 정의 하였고 실시간 이상 탐지 분석이 가능합니다.
 </br></br>
@@ -11,6 +11,8 @@ CANAD는 CCAN Anomaly Detector 모듈입니다.
 
 ## Construction
 ```
+분석 결과 저장 파일 구성은 다음과 같습니다.
+
 [파일 구성]
 - result.csv : 모든 이벤트에 대한 종합 결과 저장
 - count_result.csv : 모든 이벤트에 대한 발생 횟수 결과 저장
