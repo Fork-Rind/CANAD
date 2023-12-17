@@ -1,5 +1,7 @@
 # CANAD
 
+![Team Logo (made by GPT5)](./logo.png)
+
 ## What is
 CANAD는 CCAN Anomaly Detector 도구(이자 모듈)입니다.
 </br></br>
@@ -49,10 +51,11 @@ CANAD는 CCAN Anomaly Detector 도구(이자 모듈)입니다.
  - desc             : 이벤트에 대한 설명
 ```
 
-## Refer
+## Reference
 PCAN 드라이버를 사용하여 CCAN 메시지를 읽어오는 main.py의 대부분의 코드는 [ARK_CAN](https://github.com/ARKPROJECT2023/ARK_CAN/blob/main/READ_CH1%20-%20C.py)의 코드를 베이스로 사용하였음을 알립니다. 
 
 ## Contributors
+> @TEAM 돼지 껍데기(Fork Rind)
 - OZ1NG  (홍택균) : 팀장, 개발
 - lmxx   (임종준) : 이상 탐지 규칙 정의, CCAN 메시지 분석
 - K0n9   (이정주) : 이상 탐지 규칙 정의, CCAN 메시지 분석
